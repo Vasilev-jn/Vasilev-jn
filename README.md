@@ -1,7 +1,7 @@
 <h1 align="center">✌ Hi, I'm Glazastik ⚡</h1>
 <h3 align="center">
   Data Analytics | Machine Learning | NLP | Visualization.  
-  Continuously enhancing capabilities in data analysis, processing, and interpretation.
+  Continuously enhancing capabilities in data analysis, processing, and interpretation | Python automation developer.
 </h3>
 
 ---
