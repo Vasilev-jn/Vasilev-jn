@@ -1,99 +1,48 @@
-<h1 align="center">✌ Hi, I'm Glazastik ⚡</h1>
-<h3 align="center">
-  Data Analytics | Machine Learning | NLP | Visualization.  
-  Continuously enhancing capabilities in data analysis, processing, and interpretation | Python automation developer.
-</h3>
+# Junior Python Backend Developer
 
----
+Junior Python backend developer building REST APIs, Telegram bots, and PostgreSQL-based applications.
 
-- 👀 I'm **Kirill**    
-- 👾 Age **21**  
-- 🏡 From **Russia, Moscow**  
-- 📫 How to reach me **greatbritn111@gmail.com**  
-- ⚡ Fun fact **I can explain complex data so well that even my coffee understands the visualization and asks for a dashboard at breakfast.**
+## Core Stack
 
----
-
-<h3 align="left">🛠 Languages & Tools:</h3>
-
-**Core languages**  
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/>
-  </a>
+  <img src="https://cdn.simpleicons.org" width="40" height="40" alt="python" />
+  <img src="https://cdn.simpleicons.org" width="40" height="40" alt="fastapi" />
+  <img src="https://cdn.simpleicons.org" width="40" height="40" alt="flask" />
+  <img src="https://cdn.simpleicons.org" width="40" height="40" alt="postgresql" />
+  <img src="https://cdn.simpleicons.org" width="40" height="40" alt="sqlalchemy" />
+  <img src="https://cdn.simpleicons.org" width="40" height="40" alt="pytest" />
+  <img src="https://cdn.simpleicons.org" width="40" height="40" alt="git" />
 </p>
 
-**Data Analysis & Visualization**  
-<p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="55" height="55"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="55" height="55"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="100" height="55"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="55" height="55"/>
-  </a>
-</p>
+## Selected Projects
 
-**Databases**  
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="55" height="55"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="55" height="55"/>
-  </a>
-</p>
+### [b2-lite](https://github.com/Vasilev-jn/b2-lite)
+Event ingestion backend with idempotent writes, migrations, tests, and API endpoints for working with stored events.
 
-**Machine Learning & NLP**  
-<p align="left">
-  <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="scikit-learn" width="90" height="55"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="100" height="55"/>
-  </a>
-</p>
+Stack: Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic, Pytest
 
----
+### [vacancy_bot](https://github.com/Vasilev-jn/vacancy_bot)
+Telegram bot that stores a user profile, fetches vacancies from external sources, and ranks them by profile match.
 
-<h3 align="left">📈 Featured Project: SentimentPet</h3>
+Stack: Python, Telegram Bot API, PostgreSQL, external API integrations
 
-🐾 **SentimentPet** — инструмент для анализа тональности отзывов на русском языке.  
-Реализован полный ML-пайплайн:  
-- 📊 Подготовка данных (pandas, numpy)  
-- ⚙️ Обучение моделей (Logistic Regression, TF-IDF, scikit-learn)  
-- 🖥 CLI-интерфейс (**Typer**)  
-- 🌐 REST API (**FastAPI + Uvicorn**)  
-- 💻 Десктопное приложение (**Tkinter**)  
+### [personal-finance-analyzer1](https://github.com/Vasilev-jn/personal-finance-analyzer1)
+Privacy-first finance app with CSV import, transaction categorization, dashboard analytics, operations history, and profile settings.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vasilev-jn/sentimentpet/main/images/gui_negative.jpg" alt="GUI Negative" width="250"/>
-  <img src="https://raw.githubusercontent.com/Vasilev-jn/sentimentpet/main/images/gui_neutral.jpg"  alt="GUI Neutral"  width="250"/>
-  <img src="https://raw.githubusercontent.com/Vasilev-jn/sentimentpet/main/images/gui_positive.jpg" alt="GUI Positive" width="250"/>
-</p>
+Stack: Python, Flask, CSV import, analytics services, Pytest
 
-
-🔗 Репозиторий проекта: [sentimentpet](https://github.com/Vasilev-jn/sentimentpet)
-
----
-
-<h3 align="left">📊 GitHub Stats:</h3>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vasilev-jn&show_icons=true&theme=tokyonight&locale=en" alt="vasilev-jn" />
+  <img src="https://raw.githubusercontent.com/Vasilev-jn/personal-finance-analyzer1/main/docs/screenshots/main.png" alt="MoneyMap dashboard" width="48%" />
+  <img src="https://raw.githubusercontent.com/Vasilev-jn/personal-finance-analyzer1/main/docs/screenshots/analitics.png" alt="MoneyMap analytics" width="48%" />
 </p>
 
----
-
-<h3 align="left">📬 Connect with me:</h3>
-<p align="left">
-  <a href="https://t.me/Mirrowh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="40" width="40" /></a>
-  <a href="https://vk.com/glazastik56" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/77/VKsignature.png" alt="VK" height="40" width="40" /></a>
-</p>
+## Contacts
+<a href="https://t.me/Mirrowh" target="_blank">
+    <img src="https://cdn.simpleicons.org" width="40" height="40" alt="Telegram" />
+  </a>
+<a href="https://vk.com/glazastik56" target="_blank">
+  <img src="https://cdn.simpleicons.org" width="40" height="40" alt="VK" />
+</a>
+<a href="mailto:greatbritn111@gmail.com">
+  <img src="https://cdn.simpleicons.org" width="40" height="40" alt="Email" />
+</a>
