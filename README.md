@@ -1,6 +1,22 @@
-# Junior Python Backend Developer
-
-Junior Python backend developer building REST APIs, Telegram bots, and PostgreSQL-based applications.
+<table>
+  <tr>
+    <td valign="top" width="62%">
+      <h1>Junior Python Backend Developer</h1>
+      <p>4th-year Applied Informatics student focused on backend development with Python.</p>
+      <p>Building REST APIs, Telegram bots, PostgreSQL-based services, and automation tools.</p>
+      <p><strong>Focus:</strong> FastAPI, Flask, PostgreSQL, SQLAlchemy, Alembic, REST API, Pytest</p>
+      <p><strong>About</strong></p>
+      <p>🧑 Kirill</p>
+      <p>🗓 21 years old</p>
+      <p>📌 Moscow, Russia</p>
+      <p>🛠 Python Developer, Data Engineer Intern</p>
+      <p>🏛 Russian Presidential Academy of National Economy and Public Administration, Applied Informatics</p>
+    </td>
+    <td align="right" valign="top" width="38%">
+      <img src="assets/profile-side.gif" alt="Profile GIF" width="320" />
+    </td>
+  </tr>
+</table>
 
 ## Core Stack
 
