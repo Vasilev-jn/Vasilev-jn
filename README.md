@@ -4,15 +4,13 @@ Junior Python backend developer building REST APIs, Telegram bots, and PostgreSQ
 
 ## Core Stack
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org" width="40" height="40" alt="python" />
-  <img src="https://cdn.simpleicons.org" width="40" height="40" alt="fastapi" />
-  <img src="https://cdn.simpleicons.org" width="40" height="40" alt="flask" />
-  <img src="https://cdn.simpleicons.org" width="40" height="40" alt="postgresql" />
-  <img src="https://cdn.simpleicons.org" width="40" height="40" alt="sqlalchemy" />
-  <img src="https://cdn.simpleicons.org" width="40" height="40" alt="pytest" />
-  <img src="https://cdn.simpleicons.org" width="40" height="40" alt="git" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ## Selected Projects
 
@@ -37,12 +35,6 @@ Stack: Python, Flask, CSV import, analytics services, Pytest
 </p>
 
 ## Contacts
-<a href="https://t.me/Mirrowh" target="_blank">
-    <img src="https://cdn.simpleicons.org" width="40" height="40" alt="Telegram" />
-  </a>
-<a href="https://vk.com/glazastik56" target="_blank">
-  <img src="https://cdn.simpleicons.org" width="40" height="40" alt="VK" />
-</a>
-<a href="mailto:greatbritn111@gmail.com">
-  <img src="https://cdn.simpleicons.org" width="40" height="40" alt="Email" />
-</a>
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/Mirrowh)
+[![VK](https://img.shields.io/badge/VK-0077FF?logo=vk&logoColor=white)](https://vk.com/glazastik56)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:greatbritn111@gmail.com)
