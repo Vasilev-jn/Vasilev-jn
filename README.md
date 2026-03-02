@@ -6,9 +6,8 @@
       <p><strong>Focus:</strong> FastAPI, Flask, PostgreSQL, SQLAlchemy, Alembic, REST API, Pytest</p>
       <p><strong>About</strong></p>
       <p>🧑 Kirill</p>
-      <p>🗓 21 years old</p>
       <p>📌 Moscow, Russia</p>
-      <p>🛠 Python Developer, Data Engineer Intern</p>
+      <p>🛠 Python Developer</p>
       <p>🏛 Russian Presidential Academy of National Economy and Public Administration, Applied Informatics</p>
     </td>
     <td align="right" valign="top" width="38%">
@@ -29,11 +28,6 @@
 
 ## Selected Projects
 
-### [b2-lite](https://github.com/Vasilev-jn/b2-lite)
-Event ingestion backend with idempotent writes, migrations, tests, and API endpoints for working with stored events.
-
-Stack: Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic, Pytest
-
 ### [vacancy_bot](https://github.com/Vasilev-jn/vacancy_bot)
 Telegram bot that stores a user profile, fetches vacancies from external sources, and ranks them by profile match.
 
@@ -43,6 +37,11 @@ Stack: Python, Telegram Bot API, PostgreSQL, external API integrations
 Privacy-first finance app with CSV import, transaction categorization, dashboard analytics, operations history, and profile settings.
 
 Stack: Python, Flask, CSV import, analytics services, Pytest
+
+### [b2-lite](https://github.com/Vasilev-jn/b2-lite)
+Event ingestion backend with idempotent writes, migrations, tests, and API endpoints for working with stored events.
+
+Stack: Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic, Pytest
 
 <p>
   <img src="https://raw.githubusercontent.com/Vasilev-jn/personal-finance-analyzer1/main/docs/screenshots/main.png" alt="MoneyMap dashboard" width="48%" />
