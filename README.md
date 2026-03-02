@@ -38,15 +38,15 @@ Privacy-first finance app with CSV import, transaction categorization, dashboard
 
 Stack: Python, Flask, CSV import, analytics services, Pytest
 
-### [b2-lite](https://github.com/Vasilev-jn/b2-lite)
-Event ingestion backend with idempotent writes, migrations, tests, and API endpoints for working with stored events.
-
-Stack: Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic, Pytest
-
 <p>
   <img src="https://raw.githubusercontent.com/Vasilev-jn/personal-finance-analyzer1/main/docs/screenshots/main.png" alt="MoneyMap dashboard" width="48%" />
   <img src="https://raw.githubusercontent.com/Vasilev-jn/personal-finance-analyzer1/main/docs/screenshots/analitics.png" alt="MoneyMap analytics" width="48%" />
 </p>
+
+### [b2-lite](https://github.com/Vasilev-jn/b2-lite)
+Event ingestion backend with idempotent writes, migrations, tests, and API endpoints for working with stored events.
+
+Stack: Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic, Pytest
 
 ## Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/Mirrowh)
