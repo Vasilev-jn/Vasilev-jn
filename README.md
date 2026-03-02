@@ -2,7 +2,6 @@
   <tr>
     <td valign="top" width="62%">
       <h1>Junior Python Backend Developer</h1>
-      <p>4th-year Applied Informatics student focused on backend development with Python.</p>
       <p>Building REST APIs, Telegram bots, PostgreSQL-based services, and automation tools.</p>
       <p><strong>Focus:</strong> FastAPI, Flask, PostgreSQL, SQLAlchemy, Alembic, REST API, Pytest</p>
       <p><strong>About</strong></p>
